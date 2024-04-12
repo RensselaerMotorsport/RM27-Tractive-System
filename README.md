@@ -21,7 +21,5 @@ Typical Circuits:
 * ESF - Shows overall design of racecar electrical system. Includes datasheets, circuit diagrams, electrical architecture, and part numbers.
 
 
-
-
-
-
+Additional Circuits in this repo:
+The soldering demo board for the Mercer XLab was included to be used as an instructional tool to teach other students at RPI how to solder. Several PCBs were printed and the Rensselaer Motorsport club ran a soldering workshop in the XLab. The board is a simple multivibrator that uses a potentiometer to adjust the blinking frequency of an LED. This workshop was quite successful for our lab, however keep in mind if you run a workshop with this circuit, we designed this circuit to be used with a 3V button cell battery (CR2025). Make sure that a 555 timer designed to have a 3V power rail us used so the timer works sufficiently. (We used the TLC555CP).
