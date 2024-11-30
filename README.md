@@ -1,5 +1,9 @@
 # RM27-TRACTIVE-SYSTEM
 
+NOTICE!!!
+This repo is OUTDATED! The current tractive system repository is at https://github.com/RensselaerMotorsport/RM28-Tractive-System
+Almost all circuits from this repo were updated for the RM28 car (FSAE 2024 competition car)
+
 This respository currently contains one major project:
 * WIP RM27 Project - This project is the most up-to-date version of the 2023-2024 competition car's High Voltage System.
 
